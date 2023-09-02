@@ -1,0 +1,166 @@
+body {
+    font-family: 'Bebas Neue';
+}
+
+/* -------------------------navbar---------------- */
+.navbar{
+    width: 100%;
+}
+
+.we-deliver-parent{
+    margin-left: 0%;
+    background-color: #6f42c1;
+    width: 100%;
+    text-align: center;
+    padding: 7px;
+}
+
+.we-deliver-parent a{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    
+}
+
+
+.Sabroso-Logo-parent{
+    margin-left: 50%;
+    
+}
+
+.Sabroso-Logo-parent > img{
+    cursor: pointer;
+    margin-top: 12px;
+}
+
+.sabroso-logo{
+    
+  
+}
+
+.contact-mail > ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+.contact-mail> li{
+    list-style: none;
+    text-decoration: none;
+
+
+}
+
+
+.contact-mail-a{
+    padding: 20px;
+    color:  #6f42c1;
+    font-size: 14px;
+}
+
+a{
+    font-weight: bold;
+}
+
+/*--------------------- after slider featured h3--------- */
+
+.Featured{
+background-color:#5c2e92;
+text-align: center;
+    color: white;
+    margin-top: 28px;
+    padding: 5px;
+}
+
+.Featured > h3{
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: -1px;
+}
+
+.menu-cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu-btn{
+    padding: 5px;
+}
+
+.menu-btn > span{
+    
+    background-color:#5c2e92 ;
+    color: white;
+    text-align: center;
+}
+
+.video-div{
+    margin-top: 35px;
+}
+
+.footer{
+    margin-top: 130px;
+}
+
+.footer-1{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-1 > a{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 26px;
+    color: #5c2e92;
+}
+
+.footer-2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.footer-2 > a{
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+
+.footer-3{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.footer-3 > a{
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+
+.footer-4{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.footer-4 > a{
+    color: #6c757d;
+    font-size: .8rem;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.footer-5{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.footer-5 > a{
+    font-size: .8rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6f42c1;
+}
